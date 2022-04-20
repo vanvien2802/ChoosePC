@@ -1,0 +1,12 @@
+D:\ModernUI\ModernUI_FontAw\QLQNet\bin\Debug\QLQNet.exe.config
+D:\ModernUI\ModernUI_FontAw\QLQNet\bin\Debug\QLQNet.exe
+D:\ModernUI\ModernUI_FontAw\QLQNet\bin\Debug\QLQNet.pdb
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.csproj.AssemblyReference.cache
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.csproj.SuggestedBindingRedirects.cache
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.Form1.resources
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.Properties.Resources.resources
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.csproj.GenerateResource.cache
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.csproj.CoreCompileInputs.cache
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.exe
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\QLQNet.pdb
+D:\ModernUI\ModernUI_FontAw\QLQNet\obj\Debug\ChoosePC_UI.DetailPC.resources
